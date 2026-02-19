@@ -1,0 +1,19 @@
+#  Rajasthan Weather Log
+
+This is a mini data logging project created during my Rajasthan trip.
+
+## Dataset Columns
+
+- City
+- Date
+- Temperature (°C)
+- Weather Condition
+
+## Purpose
+
+Practicing:
+- Creating CSV datasets
+- Structuring data
+- Maintaining GitHub consistency
+
+More updates coming soon 
