@@ -1,0 +1,9 @@
+City,Date,Temperature_C,Condition
+Jaipur,2026-02-17,24,Sunny
+Udaipur,2026-02-17,22,Clear
+Jodhpur,2026-02-17,26,Sunny
+Jaisalmer,2026-02-17,28,Hot
+Pushkar,2026-02-17,23,Clear
+
+
+Added initial weather dataset
